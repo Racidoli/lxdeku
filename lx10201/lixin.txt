@@ -1,0 +1,9 @@
+git  init   -- 初始化git配置管理库
+
+git  remote  add  origin  你的仓库链接
+
+git  add javaone
+
+git  commit -m  '第一次提交'
+
+git  push  -u origin  master  
